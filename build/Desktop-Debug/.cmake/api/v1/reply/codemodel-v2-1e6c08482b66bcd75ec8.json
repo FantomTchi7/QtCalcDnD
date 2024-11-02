@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-cc22890e2723f9643901.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QtCalcDnD",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QtCalcDnD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtCalcDnD-Debug-a40bdf49406836dbc9d3.json",
+					"name" : "QtCalcDnD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtCalcDnD_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtCalcDnD_autogen-Debug-cdb1ce94e81941cc28de.json",
+					"name" : "QtCalcDnD_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtCalcDnD_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtCalcDnD_autogen_timestamp_deps-Debug-3e58e1ab3a30ad02fb7e.json",
+					"name" : "QtCalcDnD_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/fantom/QtCalcDnD/build/Desktop-Debug",
+		"source" : "/home/fantom/QtCalcDnD"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
